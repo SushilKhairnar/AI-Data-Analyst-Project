@@ -5,3 +5,5 @@ chroma_db/
 venv/
 .venv/
 *.pyc
+AI_Data_Analyst.db
+chroma_db/
