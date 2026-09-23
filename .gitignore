@@ -7,3 +7,4 @@ venv/
 *.pyc
 AI_Data_Analyst.db
 chroma_db/
+chart.png
