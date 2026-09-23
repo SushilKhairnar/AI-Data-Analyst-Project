@@ -1,0 +1,324 @@
+ABC RETAIL PVT. LTD.
+BUSINESS METRICS AND KPI DEFINITIONS
+
+Document Code: BMD-001
+Department: Data & Analytics
+Applicable Area: Business Performance Measurement
+Effective Period: January 2025 onwards
+
+1. PURPOSE
+
+ABC Retail Pvt. Ltd. uses standardized business metrics to monitor sales, customers, products, employees, and departments.
+
+The purpose of this document is to establish consistent definitions for commonly used business performance indicators.
+
+All departments should use the approved definitions when discussing company performance.
+
+2. TOTAL ORDERS
+
+Total Orders represents the number of orders recorded by ABC Retail Pvt. Ltd. during a specified period.
+
+Orders are identified using unique order IDs.
+
+Total Orders may include orders with different statuses, including Delivered, Shipped, Pending, Cancelled, and Refunded.
+
+Management should identify the relevant order statuses when interpreting order volume.
+
+3. COMPLETED ORDERS
+
+A Completed Order is an order with the status Delivered.
+
+Delivered indicates that the customer's order has successfully reached the customer.
+
+Completed order analysis is useful for evaluating successfully fulfilled purchases.
+
+4. CANCELLED ORDERS
+
+Cancelled Orders represent orders with the status Cancelled.
+
+Cancelled orders should be analyzed separately from completed orders.
+
+Cancellation analysis may help management understand customer and operational issues.
+
+5. REFUNDED ORDERS
+
+Refunded Orders represent orders with the status Refunded.
+
+Refunded orders should be monitored separately from normal completed sales.
+
+Refund activity can be reviewed by product, category, customer segment, city, and time period.
+
+6. SALES REVENUE
+
+Sales revenue represents the value associated with completed customer purchases according to company sales reporting rules.
+
+Delivered orders represent completed purchases.
+
+Management should distinguish completed sales from pending, cancelled, and refunded transactions when evaluating final business performance.
+
+7. AVERAGE ORDER VALUE
+
+Average Order Value, commonly referred to as AOV, represents the average value of a completed customer order.
+
+The standard company calculation is:
+
+AOV = Total Completed Sales / Number of Completed Orders
+
+AOV should be interpreted alongside order volume because an increase in AOV does not necessarily mean that the total number of customers or orders has increased.
+
+8. UNITS SOLD
+
+Units Sold represents the total quantity of products included in customer orders.
+
+Quantity is recorded in the order_items records.
+
+Units sold can be evaluated by:
+
+* Product
+* Category
+* Customer
+* Customer segment
+* City
+* State
+* Month
+* Year
+
+9. PRODUCT SALES
+
+Product sales represent sales associated with individual products.
+
+Product analysis may include:
+
+* Units sold
+* Number of orders
+* Selling price
+* Product cost
+* Sales contribution
+* Gross profit
+
+Product IDs provide the connection between products and order items.
+
+10. CATEGORY SALES
+
+Category sales represent the sales contribution of products belonging to a specific category.
+
+Category performance may be compared according to:
+
+* Sales
+* Units sold
+* Number of orders
+* Average product price
+* Product cost
+* Profit contribution
+
+Category comparisons should consider differences in product count and transaction volume.
+
+11. GROSS PROFIT
+
+Gross profit represents the difference between product sales value and the associated product cost.
+
+At the product level, basic unit gross profit can be represented as:
+
+Gross Profit per Unit = Price - Cost
+
+For multiple units:
+
+Gross Profit = Sales Value - Product Cost Value
+
+Gross profit does not represent final company profit because other operating expenses may not be included.
+
+12. GROSS MARGIN
+
+Gross Margin represents gross profit as a percentage of sales.
+
+The standard calculation is:
+
+Gross Margin % = (Gross Profit / Sales) × 100
+
+Management may review gross margin by product and category.
+
+A product with high sales does not necessarily have the highest gross margin.
+
+13. CUSTOMER COUNT
+
+Customer Count represents the number of customers recorded in the customer master.
+
+Each customer should have a unique customer ID.
+
+Customer count may be analyzed by:
+
+* Segment
+* City
+* State
+* Signup period
+
+14. CUSTOMER SEGMENT DISTRIBUTION
+
+The company maintains five customer segments:
+
+Premium
+Regular
+Occasional
+New
+At Risk
+
+Management may compare the number of customers in each segment.
+
+Segment distribution provides an overview of the composition of the company's customer base.
+
+15. NEW CUSTOMER COUNT
+
+New Customer Count represents customers classified as New according to the company's customer segmentation rules.
+
+New customer activity should be considered separately from total customer count.
+
+Management may compare new customer registrations with subsequent purchasing activity.
+
+16. ACTIVE CUSTOMER
+
+An active customer is a customer who demonstrates relevant purchasing activity during the selected reporting period.
+
+The exact reporting definition should be specified for each business report.
+
+Customer activity may be evaluated using order records and completed purchases.
+
+17. REPEAT CUSTOMER
+
+A repeat customer is a customer who has made more than one qualifying purchase according to the reporting period and business definition being used.
+
+Repeat customer analysis helps management understand continued customer engagement.
+
+18. SALES GROWTH
+
+Sales Growth represents the change in sales between two comparable periods.
+
+The standard percentage-change calculation is:
+
+Growth % = ((Current Period Sales - Previous Period Sales) / Previous Period Sales) × 100
+
+Growth should be compared between equivalent periods where possible.
+
+For example, monthly sales may be compared with the previous month or the same month in the previous year.
+
+19. MONTH-OVER-MONTH GROWTH
+
+Month-over-Month growth compares a month's performance with the immediately preceding month.
+
+Management may use MoM growth to identify recent changes in sales activity.
+
+20. YEAR-OVER-YEAR GROWTH
+
+Year-over-Year growth compares a period with the corresponding period from the previous year.
+
+YoY comparisons are useful when seasonal purchasing patterns may affect monthly results.
+
+21. ORDER STATUS DISTRIBUTION
+
+Order status distribution shows the number or percentage of orders in each status.
+
+The company-approved statuses are:
+
+* Delivered
+* Shipped
+* Pending
+* Cancelled
+* Refunded
+
+Status distribution helps management understand the current order lifecycle.
+
+22. CANCELLATION RATE
+
+Cancellation Rate measures cancelled orders relative to the selected order population.
+
+A common calculation is:
+
+Cancellation Rate = Cancelled Orders / Total Orders × 100
+
+The reporting period and denominator should always be clearly specified.
+
+23. REFUND RATE
+
+Refund Rate measures refunded orders relative to the selected order population.
+
+A common calculation is:
+
+Refund Rate = Refunded Orders / Total Orders × 100
+
+Management should interpret refund rate together with product category, order volume, and customer behavior.
+
+24. EMPLOYEE HEADCOUNT
+
+Employee Headcount represents the number of employees recorded in the employee master.
+
+Employees may be analyzed by:
+
+* Department
+* Job role
+* City
+* Hire year
+
+25. AVERAGE SALARY
+
+Average Salary represents the arithmetic mean salary of employees in the selected population.
+
+Average salary can be reviewed by:
+
+* Department
+* Job role
+* City
+
+Individual salary information should remain confidential.
+
+26. DEPARTMENT BUDGET
+
+Each company department has an annual budget.
+
+The company's departments are:
+
+Sales
+Data & Analytics
+Human Resources
+Finance
+Operations
+
+Management may compare department-level employee salary expenditure with annual departmental budgets.
+
+27. DEPARTMENT BUDGET UTILIZATION
+
+Budget utilization compares relevant department expenditure with the approved annual department budget.
+
+Management should clearly identify which expenses are included before interpreting budget utilization.
+
+Employee salary expenditure may be one component of department spending but should not automatically be treated as the entire department expenditure.
+
+28. EMPLOYEE TENURE
+
+Employee tenure represents the length of time an employee has been employed by the company.
+
+Hire Date is used as the starting point for tenure calculations.
+
+Management may review tenure by department and job role.
+
+29. KPI COMPARISONS
+
+Business metrics should be compared using consistent definitions.
+
+When comparing periods, management should ensure:
+
+* Same metric definition
+* Comparable time periods
+* Consistent order-status rules
+* Consistent customer definitions
+* Consistent product definitions
+
+30. MANAGEMENT PRINCIPLE
+
+ABC Retail Pvt. Ltd. uses standardized metrics to create consistent business reporting.
+
+Metrics should be clearly defined before being used for management decisions.
+
+Sales metrics should be interpreted alongside customer, product, and operational information.
+
+Employee metrics should be interpreted alongside department structure and budgets.
+
+Consistent definitions help different departments communicate using the same understanding of company performance.

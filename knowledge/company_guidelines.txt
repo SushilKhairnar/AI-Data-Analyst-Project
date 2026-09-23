@@ -1,0 +1,367 @@
+ABC RETAIL PVT. LTD.
+COMPANY BUSINESS GUIDELINES
+
+Document Code: CBG-001
+Department: Corporate Management
+Applicable Area: General Business Operations
+Effective Period: January 2025 onwards
+
+1. COMPANY PURPOSE
+
+ABC Retail Pvt. Ltd. operates as a retail organization serving customers through a structured product and order management system.
+
+The company maintains customer, product, order, employee, and department information to support day-to-day operations and management activities.
+
+Every department is responsible for maintaining accurate information related to its area of responsibility.
+
+2. ORGANIZATIONAL STRUCTURE
+
+ABC Retail Pvt. Ltd. operates through five primary departments:
+
+D01 – Sales
+D02 – Data & Analytics
+D03 – Human Resources
+D04 – Finance
+D05 – Operations
+
+Each department has defined responsibilities and an assigned manager.
+
+3. SALES
+
+The Sales Department manages customer relationships, customer acquisition, order activities, sales operations, and sales performance monitoring.
+
+Sales employees are responsible for ensuring that customer and order information is recorded correctly.
+
+Sales activities should follow the company's approved sales and customer-management procedures.
+
+4. DATA & ANALYTICS
+
+The Data & Analytics Department supports business reporting and analytical activities.
+
+The department works with information related to sales, customers, products, employees, and business performance.
+
+Analytical reports should use consistent company definitions.
+
+Business metrics should be clearly defined before they are used in management reports.
+
+5. HUMAN RESOURCES
+
+Human Resources manages employee information and workforce-related activities.
+
+HR is responsible for maintaining accurate employee records and supporting recruitment, onboarding, compensation administration, workforce planning, and employee policies.
+
+Employee information must be treated as confidential business information.
+
+6. FINANCE
+
+Finance manages financial reporting, budgeting, cost management, and financial controls.
+
+The Finance Department coordinates with other departments when financial information is required for business operations.
+
+Department budgets should be reviewed regularly.
+
+7. OPERATIONS
+
+Operations manages the company's operational processes.
+
+The department works closely with Sales and Customer Service to support order fulfillment and customer requirements.
+
+Operational processes should be monitored to identify delays and improve business efficiency.
+
+8. CUSTOMER INFORMATION
+
+Customer records contain:
+
+* Customer ID
+* Name
+* City
+* State
+* Signup Date
+* Customer Segment
+
+Customer IDs must be unique.
+
+Customer information should be maintained accurately.
+
+Changes to customer information should be made only through approved business procedures.
+
+9. CUSTOMER SEGMENTS
+
+ABC Retail Pvt. Ltd. uses the following customer segments:
+
+Premium
+Regular
+Occasional
+New
+At Risk
+
+Customer segmentation supports customer relationship management.
+
+Employees should use the approved segment definitions when preparing customer reports.
+
+10. PRODUCT INFORMATION
+
+Product records contain:
+
+* Product ID
+* Product Name
+* Category
+* Price
+* Cost
+
+Product IDs must remain consistent across sales records.
+
+Product names and categories should be maintained accurately.
+
+Product prices and costs should be updated only through authorized procedures.
+
+11. ORDER INFORMATION
+
+Orders contain:
+
+* Order ID
+* Customer ID
+* Order Date
+* Status
+
+Every order must be associated with a valid customer.
+
+The approved order statuses are:
+
+Delivered
+Shipped
+Pending
+Cancelled
+Refunded
+
+Employees must select the status that accurately represents the order's current business state.
+
+12. ORDER ITEMS
+
+Order items identify the products purchased in an order.
+
+Order item records contain:
+
+* Order Item ID
+* Order ID
+* Product ID
+* Quantity
+
+Every order item must reference a valid order and product.
+
+Quantity must be recorded accurately.
+
+13. COMPLETED SALES
+
+Delivered orders represent completed customer purchases under the company's sales reporting rules.
+
+Pending and Shipped orders represent orders that have not yet been confirmed as completed.
+
+Cancelled orders should be excluded from normal completed-sales reporting.
+
+Refunded orders should be reviewed separately because they represent transactions that have entered the refund process.
+
+14. CUSTOMER SERVICE
+
+Customer Service is responsible for assisting customers with questions, order issues, cancellations, and refunds.
+
+Customer Service should provide accurate information regarding order status.
+
+Employees should not promise outcomes that have not been approved.
+
+15. REFUND AND CANCELLATION
+
+Cancellation and refund are separate business processes.
+
+Cancelled orders represent orders that have been cancelled.
+
+Refunded orders represent orders that have entered the company's refund process.
+
+All refund requests must follow the applicable company procedure.
+
+Finance should coordinate with Customer Service when financial processing is required.
+
+16. EMPLOYEE INFORMATION
+
+Employee records contain:
+
+* Employee ID
+* Employee Name
+* Department ID
+* Job Role
+* City
+* Hire Date
+* Salary
+
+Employee information must be maintained accurately.
+
+Salary information is confidential.
+
+17. DEPARTMENT MANAGEMENT
+
+Each department has an annual budget and manager.
+
+The company currently recognizes:
+
+Sales — Manager: Vikram Shah
+Data & Analytics — Manager: Kavya Reddy
+Human Resources — Manager: Suresh Iyer
+Finance — Manager: Divya Menon
+Operations — Manager: Manish Yadav
+
+Department managers are responsible for coordinating their department's activities.
+
+18. BUDGET MANAGEMENT
+
+Department budgets should be monitored throughout the financial year.
+
+Managers should understand their department's planned financial requirements.
+
+Significant differences between planned budgets and actual expenditure should be reviewed by the responsible management and Finance teams.
+
+19. DATA QUALITY
+
+ABC Retail Pvt. Ltd. expects business records to be accurate and complete.
+
+The following principles apply:
+
+Customer IDs should be unique.
+
+Product IDs should be unique.
+
+Order IDs should be unique.
+
+Order items should reference valid orders.
+
+Order items should reference valid products.
+
+Orders should reference valid customers.
+
+Employee records should reference valid departments.
+
+Dates should contain valid values.
+
+Approved status and segment values should be used consistently.
+
+20. BUSINESS REPORTING
+
+Business reports should use approved company definitions.
+
+Reports may cover:
+
+* Sales
+* Customers
+* Products
+* Orders
+* Employees
+* Departments
+* Budgets
+* Customer segments
+* Product categories
+
+Reports should clearly identify the reporting period.
+
+21. MANAGEMENT DECISIONS
+
+Management decisions should be based on accurate and relevant company information.
+
+Managers should review multiple business indicators before making significant decisions.
+
+For example, product performance should not be evaluated solely by sales volume when product cost and profitability information is available.
+
+Customer performance should not be evaluated only by customer count.
+
+Department performance should consider workforce, budget, and operational requirements.
+
+22. CROSS-DEPARTMENT COORDINATION
+
+Departments should coordinate when business processes overlap.
+
+Sales and Operations should coordinate on order fulfillment.
+
+Sales and Customer Service should coordinate on customer issues.
+
+Customer Service and Finance should coordinate on approved refunds.
+
+Human Resources and department managers should coordinate on workforce requirements.
+
+Finance and department managers should coordinate on budgets.
+
+Data & Analytics should coordinate with business departments to ensure reports correctly represent business definitions.
+
+23. CONFIDENTIALITY
+
+Company information must be handled responsibly.
+
+Customer information should only be accessed for legitimate business purposes.
+
+Employee salary and employment information should only be accessed by authorized personnel.
+
+Business information should not be disclosed outside approved company processes.
+
+24. BUSINESS PROCESS IMPROVEMENT
+
+ABC Retail Pvt. Ltd. encourages departments to identify opportunities for improving business processes.
+
+Improvement activities may focus on:
+
+* Faster order processing
+* Better customer service
+* Accurate product information
+* Improved sales performance
+* Reduced cancellations
+* Better refund management
+* Efficient workforce planning
+* Better budget management
+* Improved reporting
+
+25. OFFICIAL BUSINESS DEFINITIONS
+
+The company should maintain consistent definitions for important business terms.
+
+For example:
+
+Completed Order means a Delivered order.
+
+Cancelled Order means an order with Cancelled status.
+
+Refunded Order means an order with Refunded status.
+
+Customer Segment refers to the approved customer classifications.
+
+Department Budget refers to the approved annual budget assigned to a department.
+
+26. MANAGEMENT REVIEW
+
+Management should periodically review company performance across sales, customers, products, employees, and departments.
+
+Management reviews may include:
+
+* Sales performance
+* Customer growth
+* Customer segment distribution
+* Product performance
+* Order status distribution
+* Cancellation activity
+* Refund activity
+* Employee headcount
+* Salary expenditure
+* Department budgets
+
+27. CORE COMPANY PRINCIPLE
+
+ABC Retail Pvt. Ltd. aims to maintain a structured, customer-focused, and data-driven business environment.
+
+Every department has a defined responsibility.
+
+Every customer should receive appropriate service.
+
+Every order should be recorded accurately.
+
+Every product should have reliable information.
+
+Every employee should have an accurate organizational record.
+
+Every department should manage its resources responsibly.
+
+Accurate information, clear business processes, responsible management, and cooperation between departments are fundamental principles of ABC Retail Pvt. Ltd.

@@ -1,0 +1,201 @@
+product_id,product_name,category,price,cost
+P001,Laptop Pro 14,Electronics,75000,60000
+P002,Laptop Air 13,Electronics,62000,48000
+P003,Gaming Laptop X,Electronics,95000,76000
+P004,Business Laptop 15,Electronics,68000,53000
+P005,Chromebook Plus,Electronics,38000,29000
+P006,Desktop Pro,Electronics,55000,42000
+P007,Gaming Desktop X,Electronics,85000,68000
+P008,Office Desktop,Electronics,45000,34000
+P009,Mini PC,Electronics,32000,24000
+P010,Workstation Pro,Electronics,110000,88000
+P011,Monitor 24 Inch,Electronics,12000,8500
+P012,Monitor 27 Inch,Electronics,18000,13000
+P013,Monitor 32 Inch,Electronics,28000,21000
+P014,Curved Monitor,Electronics,24000,18000
+P015,4K Monitor,Electronics,35000,27000
+P016,Wireless Keyboard,Accessories,2500,1600
+P017,Mechanical Keyboard,Accessories,5500,3700
+P018,Gaming Keyboard,Accessories,6500,4500
+P019,Wireless Mouse,Accessories,1800,1100
+P020,Gaming Mouse,Accessories,3500,2300
+P021,Ergonomic Mouse,Accessories,2800,1900
+P022,USB Hub,Accessories,1500,900
+P023,Type C Hub,Accessories,2200,1400
+P024,Laptop Stand,Accessories,1800,1100
+P025,Cooling Pad,Accessories,2200,1400
+P026,External HDD 1TB,Storage,5500,4000
+P027,External HDD 2TB,Storage,7500,5500
+P028,External SSD 500GB,Storage,6500,4700
+P029,External SSD 1TB,Storage,10500,7800
+P030,External SSD 2TB,Storage,18500,14000
+P031,Pen Drive 64GB,Storage,800,500
+P032,Pen Drive 128GB,Storage,1200,750
+P033,Pen Drive 256GB,Storage,2200,1400
+P034,Memory Card 64GB,Storage,700,420
+P035,Memory Card 128GB,Storage,1100,680
+P036,Smartphone A1,Electronics,22000,17500
+P037,Smartphone A2,Electronics,28000,22000
+P038,Smartphone Pro,Electronics,45000,36000
+P039,Smartphone Ultra,Electronics,65000,52000
+P040,Budget Smartphone,Electronics,12000,9000
+P041,Tablet 10 Inch,Electronics,18000,14000
+P042,Tablet Pro,Electronics,35000,27000
+P043,Tablet Mini,Electronics,22000,17000
+P044,Smart Watch,Electronics,6500,4500
+P045,Smart Watch Pro,Electronics,12000,8500
+P046,Fitness Band,Electronics,3000,2000
+P047,Wireless Earbuds,Audio,3500,2300
+P048,Premium Earbuds,Audio,7500,5200
+P049,Noise Cancelling Headphones,Audio,12000,8500
+P050,Gaming Headset,Audio,5500,3700
+P051,Bluetooth Speaker,Audio,4500,3000
+P052,Portable Speaker,Audio,2800,1800
+P053,Soundbar,Audio,15000,11000
+P054,Home Theater System,Audio,32000,25000
+P055,Studio Headphones,Audio,9500,6800
+P056,USB Microphone,Audio,6500,4500
+P057,Webcam HD,Accessories,2800,1800
+P058,Webcam Full HD,Accessories,4500,3000
+P059,Webcam 4K,Accessories,8500,6200
+P060,Laptop Bag,Accessories,2200,1400
+P061,Backpack,Accessories,2800,1800
+P062,Premium Backpack,Accessories,4500,3000
+P063,Laptop Sleeve,Accessories,1500,900
+P064,Wireless Charger,Accessories,1800,1100
+P065,Fast Charger,Accessories,2200,1400
+P066,Power Bank 10000mAh,Accessories,1800,1100
+P067,Power Bank 20000mAh,Accessories,2800,1800
+P068,Smart Plug,Home Appliances,1500,900
+P069,Smart Bulb,Home Appliances,900,550
+P070,Smart Light Strip,Home Appliances,2200,1400
+P071,Smart Doorbell,Home Appliances,8500,6200
+P072,Security Camera,Home Appliances,5500,3800
+P073,Indoor Camera Pro,Home Appliances,7500,5200
+P074,WiFi Router,Networking,3500,2400
+P075,WiFi Router Pro,Networking,6500,4500
+P076,Mesh Router,Networking,12000,8500
+P077,Network Switch 8 Port,Networking,2800,1900
+P078,Network Switch 16 Port,Networking,4500,3100
+P079,WiFi Adapter,Networking,1200,750
+P080,Bluetooth Adapter,Networking,800,500
+P081,HDMI Cable,Accessories,700,400
+P082,Display Cable,Accessories,900,550
+P083,USB Cable,Accessories,500,280
+P084,Type C Cable,Accessories,700,400
+P085,Lightning Cable,Accessories,900,550
+P086,Laptop Charger,Accessories,2800,1800
+P087,Universal Charger,Accessories,3500,2300
+P088,Wireless Presenter,Accessories,1800,1100
+P089,USB Fan,Accessories,900,550
+P090,Desk Lamp,Home Appliances,1800,1100
+P091,Office Chair,Furniture,12000,8500
+P092,Ergonomic Chair,Furniture,18000,13000
+P093,Gaming Chair,Furniture,22000,16500
+P094,Executive Chair,Furniture,28000,21000
+P095,Office Desk,Furniture,15000,10500
+P096,Computer Desk,Furniture,11000,7800
+P097,Gaming Desk,Furniture,18000,13000
+P098,Bookshelf,Furniture,6500,4500
+P099,Storage Cabinet,Furniture,8500,6000
+P100,Filing Cabinet,Furniture,5500,3800
+P101,Printer Inkjet,Printers,8500,6200
+P102,Printer Laser,Printers,15000,11000
+P103,Color Laser Printer,Printers,28000,21000
+P104,Multifunction Printer,Printers,22000,16500
+P105,Photo Printer,Printers,12000,8500
+P106,Printer Cartridge Black,Printers,1800,1100
+P107,Printer Cartridge Color,Printers,2200,1400
+P108,Printer Paper A4,Office Supplies,450,280
+P109,Premium A4 Paper,Office Supplies,650,400
+P110,Notebook Pack,Office Supplies,500,300
+P111,Wireless Keyboard Pro,Accessories,3500,2200
+P112,Mechanical Keyboard Pro,Accessories,7500,5200
+P113,Gaming Mouse Pro,Accessories,4500,3000
+P114,Mouse Pad Large,Accessories,1200,700
+P115,Gaming Mouse Pad,Accessories,1800,1100
+P116,USB Hub Pro,Accessories,2800,1800
+P117,Type C Hub Pro,Accessories,3500,2300
+P118,Laptop Dock,Accessories,8500,6200
+P119,Thunderbolt Dock,Accessories,15000,11000
+P120,Monitor Stand,Accessories,2500,1600
+P121,Smartphone Stand,Accessories,900,550
+P122,Tablet Stand,Accessories,1200,750
+P123,Cable Organizer,Accessories,500,280
+P124,Screen Cleaner,Accessories,350,200
+P125,Laptop Cleaning Kit,Accessories,650,400
+P126,Antivirus Basic,Software,1200,700
+P127,Antivirus Premium,Software,2500,1500
+P128,Office Software,Software,6500,4500
+P129,Cloud Storage 1TB,Software,3500,2200
+P130,Cloud Storage 2TB,Software,5500,3500
+P131,Accounting Software,Software,8500,5800
+P132,Design Software,Software,12000,8500
+P133,Video Editing Software,Software,15000,10500
+P134,Database Software,Software,18000,13000
+P135,Security Software,Software,7500,5000
+P136,Smart TV 32 Inch,Electronics,22000,17000
+P137,Smart TV 43 Inch,Electronics,35000,27000
+P138,Smart TV 55 Inch,Electronics,55000,42000
+P139,Smart TV 65 Inch,Electronics,75000,58000
+P140,LED TV 32 Inch,Electronics,16000,12000
+P141,Air Purifier,Home Appliances,12000,8500
+P142,Air Purifier Pro,Home Appliances,22000,16000
+P143,Air Cooler,Home Appliances,9500,6800
+P144,Room Heater,Home Appliances,4500,3000
+P145,Electric Kettle,Home Appliances,1800,1100
+P146,Coffee Maker,Home Appliances,5500,3800
+P147,Mixer Grinder,Home Appliances,4500,3000
+P148,Microwave Oven,Home Appliances,9500,7000
+P149,Electric Oven,Home Appliances,12000,8500
+P150,Induction Cooktop,Home Appliances,2800,1800
+P151,Refrigerator Mini,Home Appliances,18000,14000
+P152,Washing Machine,Home Appliances,28000,22000
+P153,Vacuum Cleaner,Home Appliances,8500,6200
+P154,Robot Vacuum,Home Appliances,32000,25000
+P155,Smart Fan,Home Appliances,4500,3000
+P156,DSLR Camera,Cameras,55000,42000
+P157,Mirrorless Camera,Cameras,75000,58000
+P158,Action Camera,Cameras,28000,21000
+P159,Digital Camera,Cameras,18000,13500
+P160,Camera Lens 50mm,Cameras,22000,16500
+P161,Camera Lens 85mm,Cameras,35000,27000
+P162,Wide Angle Lens,Cameras,28000,21000
+P163,Camera Tripod,Cameras,3500,2200
+P164,Camera Bag,Cameras,2800,1800
+P165,Memory Card Pro,Storage,1800,1100
+P166,SSD 256GB,Storage,2500,1700
+P167,SSD 512GB,Storage,4500,3000
+P168,SSD 1TB Internal,Storage,7500,5200
+P169,SSD 2TB Internal,Storage,14000,10000
+P170,RAM 8GB,Computer Parts,2200,1500
+P171,RAM 16GB,Computer Parts,3800,2600
+P172,RAM 32GB,Computer Parts,7500,5200
+P173,Graphics Card 4GB,Computer Parts,18000,14000
+P174,Graphics Card 8GB,Computer Parts,32000,25000
+P175,Graphics Card 12GB,Computer Parts,48000,37000
+P176,Intel Processor i5,Computer Parts,15000,11500
+P177,Intel Processor i7,Computer Parts,28000,22000
+P178,AMD Processor R5,Computer Parts,14000,10500
+P179,AMD Processor R7,Computer Parts,26000,20000
+P180,Motherboard Basic,Computer Parts,7500,5500
+P181,Motherboard Pro,Computer Parts,14000,10500
+P182,Power Supply 450W,Computer Parts,3500,2500
+P183,Power Supply 650W,Computer Parts,5500,4000
+P184,Power Supply 850W,Computer Parts,8500,6200
+P185,PC Cabinet Basic,Computer Parts,3500,2400
+P186,PC Cabinet Gaming,Computer Parts,7500,5200
+P187,CPU Cooler,Computer Parts,2800,1800
+P188,Liquid CPU Cooler,Computer Parts,6500,4500
+P189,Thermal Paste,Computer Parts,500,280
+P190,PC Speaker,Audio,1800,1100
+P191,Gaming Speaker,Audio,4500,3000
+P192,Bluetooth Headphones,Audio,5500,3700
+P193,Wired Earphones,Audio,900,550
+P194,Premium Earphones,Audio,2500,1600
+P195,Smart Home Hub,Home Appliances,4500,3000
+P196,Smart Thermostat,Home Appliances,6500,4500
+P197,Smart Lock,Home Appliances,9500,6800
+P198,Smart Sensor,Home Appliances,1800,1100
+P199,Smart Display,Electronics,8500,6000
+P200,Smart Speaker,Audio,4500,3000

@@ -1,0 +1,280 @@
+ABC RETAIL PVT. LTD.
+CUSTOMER SEGMENTATION POLICY
+
+Document Code: CSP-001
+Department: Sales and Customer Management
+Applicable Area: Customer Classification and Relationship Management
+Effective Period: January 2025 onwards
+
+1. PURPOSE
+
+ABC Retail Pvt. Ltd. uses customer segmentation to organize customers according to their relationship with the company and their purchasing behavior.
+
+The customer master contains a unique customer ID, customer name, city, state, signup date, and customer segment.
+
+Customer segmentation helps the Sales and Customer Management teams understand different groups of customers and apply appropriate business strategies.
+
+The company currently maintains the following customer segments:
+
+* Premium
+* Regular
+* Occasional
+* New
+* At Risk
+
+2. CUSTOMER MASTER
+
+Every customer must have a unique customer ID.
+
+Customer records contain:
+
+Customer ID
+Customer Name
+City
+State
+Signup Date
+Customer Segment
+
+The customer ID is the primary identifier used by the company to distinguish one customer from another.
+
+Customer information must be kept accurate and updated when valid changes are reported.
+
+3. PREMIUM CUSTOMERS
+
+Premium customers represent customers with a strong and valuable relationship with ABC Retail Pvt. Ltd.
+
+These customers generally demonstrate higher purchasing activity, stronger engagement, or greater business value.
+
+Premium customers should receive appropriate attention from the Sales and Customer Service teams.
+
+The company may review Premium customers for:
+
+* Purchase frequency
+* Order activity
+* Sales contribution
+* Product preferences
+* Geographic distribution
+* Customer retention
+* Recent purchasing activity
+
+Premium customers should be monitored to maintain a positive long-term relationship.
+
+Sales representatives should understand the purchasing patterns of Premium customers and ensure that important service issues are addressed promptly.
+
+4. REGULAR CUSTOMERS
+
+Regular customers maintain an ongoing relationship with the company.
+
+They purchase products periodically and represent an important part of the company's recurring customer base.
+
+Regular customers should be monitored for purchasing consistency.
+
+The Sales Department may review:
+
+* Number of orders
+* Purchase frequency
+* Product categories purchased
+* Total purchase activity
+* Changes in purchasing behavior
+* Geographic distribution
+
+The objective is to maintain regular customer activity and encourage continued engagement.
+
+5. OCCASIONAL CUSTOMERS
+
+Occasional customers purchase products less frequently.
+
+Their purchasing activity may occur at irregular intervals.
+
+The company should monitor Occasional customers to understand whether their low purchasing frequency is related to customer preferences, product demand, pricing, or other business factors.
+
+Sales teams may review previous purchases and product preferences when communicating with these customers.
+
+Occasional customers should not automatically be treated as inactive customers because an individual customer's purchasing cycle may vary.
+
+6. NEW CUSTOMERS
+
+New customers are customers who have recently joined ABC Retail Pvt. Ltd.
+
+The signup date recorded in the customer master is used to understand the customer's relationship period with the company.
+
+New customers require particular attention during their initial relationship.
+
+The Sales and Customer Service teams should ensure that new customers understand:
+
+* Available products
+* Ordering procedures
+* Customer support channels
+* Delivery procedures
+* Cancellation procedures
+* Refund procedures
+
+The company should monitor whether new customers complete their first purchase and whether they continue purchasing after their initial interaction.
+
+7. AT RISK CUSTOMERS
+
+At Risk customers are customers whose relationship with the company requires additional attention because their purchasing activity has declined or shows signs of reduced engagement.
+
+At Risk customers should be reviewed by the Sales and Customer Management teams.
+
+The company may examine:
+
+* Previous order activity
+* Recent order activity
+* Time since last purchase
+* Previously purchased categories
+* Customer location
+* Historical purchasing frequency
+
+An At Risk classification should be treated as an indicator for customer review rather than an automatic conclusion that the customer has permanently stopped purchasing.
+
+8. CUSTOMER SEGMENT REVIEW
+
+Customer segments should be reviewed periodically.
+
+The company may compare segments using:
+
+* Customer count
+* Order count
+* Completed purchases
+* Total sales
+* Average order value
+* Purchase frequency
+* Product category preference
+* Geographic distribution
+
+Segment reviews help management understand the composition of the customer base.
+
+9. CUSTOMER GEOGRAPHY
+
+Customer location consists of city and state information.
+
+Geographic analysis may be used to understand the distribution of customer segments.
+
+For example, management may review how many Premium, Regular, New, Occasional, or At Risk customers are located in particular cities or states.
+
+Geographic information should be used carefully because customer location alone does not determine customer value.
+
+10. CUSTOMER LIFECYCLE
+
+ABC Retail Pvt. Ltd. recognizes that customers move through different stages of their relationship with the company.
+
+A customer may initially enter as a New customer.
+
+With continued purchasing activity, the customer may become a Regular or Premium customer.
+
+A customer with lower purchasing activity may become Occasional or At Risk depending on the customer's circumstances and company classification rules.
+
+Customer lifecycle reviews should consider actual customer activity rather than relying on a single indicator.
+
+11. CUSTOMER PURCHASING BEHAVIOR
+
+The company reviews purchasing behavior using order information.
+
+Important customer-level indicators include:
+
+* Number of orders
+* Purchase frequency
+* Products purchased
+* Product categories purchased
+* Sales contribution
+* Recent purchasing activity
+* Order status history
+
+Completed purchases provide important information about actual customer buying behavior.
+
+Cancelled and refunded orders should be considered separately when reviewing customer activity.
+
+12. CUSTOMER RETENTION
+
+Customer retention is an important objective of customer management.
+
+The Sales Department should monitor whether customers continue purchasing from the company after their first order.
+
+Retention reviews may compare customers who purchased during different periods.
+
+The company should pay attention to customers showing reduced activity and determine whether additional communication or service support is appropriate.
+
+13. CUSTOMER ACQUISITION
+
+New customer acquisition is important for maintaining the company's customer base.
+
+The customer signup date provides information about when customers entered the company's database.
+
+Management may review new customer registrations over time and compare new customer acquisition with subsequent purchasing activity.
+
+A customer registration should not automatically be considered a successful sale because registration and purchasing are separate business events.
+
+14. CUSTOMER VALUE
+
+Customer value may be evaluated using purchasing activity, order frequency, completed sales, and product demand.
+
+The company should avoid evaluating customer value using only one metric.
+
+For example, a customer with a large number of orders may have a different purchasing pattern from a customer with fewer but higher-value purchases.
+
+Customer value analysis should consider the complete available customer history.
+
+15. CUSTOMER SERVICE
+
+Customer service teams should provide appropriate support to all customer segments.
+
+Premium customers may require priority attention based on approved company service procedures.
+
+New customers should receive clear guidance regarding company processes.
+
+At Risk customers may require additional relationship management.
+
+Occasional and Regular customers should continue receiving appropriate service based on their needs.
+
+Customer segmentation should never be used as a reason to deny basic customer support.
+
+16. CUSTOMER DATA ACCURACY
+
+Customer IDs must be unique.
+
+Customer names should be recorded accurately.
+
+City and state information should be maintained consistently.
+
+Signup dates must represent valid dates.
+
+Customer segment values must use approved company classifications.
+
+Duplicate customer records should be investigated.
+
+Incorrect customer information should be corrected by authorized personnel.
+
+17. CUSTOMER PRIVACY
+
+Customer information is company business data and must be handled responsibly.
+
+Customer names, locations, signup information, and purchasing activity should only be accessed for legitimate business purposes.
+
+Employees should not disclose customer information outside approved business processes.
+
+Customer information should be protected from unauthorized access.
+
+18. SEGMENT MANAGEMENT PRINCIPLES
+
+The objective of segmentation is to help ABC Retail Pvt. Ltd. understand its customers and improve customer relationships.
+
+Premium customers should be retained through strong service and relationship management.
+
+Regular customers should be encouraged to maintain consistent purchasing activity.
+
+Occasional customers should be understood rather than automatically classified as inactive.
+
+New customers should receive appropriate onboarding and support.
+
+At Risk customers should be reviewed for declining activity and possible retention opportunities.
+
+19. MANAGEMENT REVIEW
+
+Customer segmentation reports should be reviewed periodically by Sales and Customer Management leadership.
+
+Management should consider customer counts, purchasing behavior, geographic distribution, product preferences, and changes over time.
+
+Segment classifications should remain consistent across company reports.
+
+The customer segmentation system should support better understanding of customer relationships while maintaining accuracy, fairness, and responsible handling of customer information.

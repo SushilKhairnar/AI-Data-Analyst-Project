@@ -1,0 +1,201 @@
+customer_id,name,city,state,signup_date,segment
+C001,Customer 1,Hyderabad,Telangana,10-01-2024,Premium
+C002,Customer 2,Pune,Maharashtra,15-01-2024,Regular
+C003,Customer 3,Mumbai,Maharashtra,20-01-2024,Regular
+C004,Customer 4,Bengaluru,Karnataka,25-01-2024,Premium
+C005,Customer 5,Chennai,Tamil Nadu,01-02-2024,Regular
+C006,Customer 6,Delhi,Delhi,05-02-2024,Premium
+C007,Customer 7,Kolkata,West Bengal,10-02-2024,Regular
+C008,Customer 8,Ahmedabad,Gujarat,15-02-2024,Regular
+C009,Customer 9,Jaipur,Rajasthan,20-02-2024,Premium
+C010,Customer 10,Hyderabad,Telangana,25-02-2024,Regular
+C011,Customer 11,Pune,Maharashtra,01-03-2024,Premium
+C012,Customer 12,Mumbai,Maharashtra,05-03-2024,Regular
+C013,Customer 13,Bengaluru,Karnataka,10-03-2024,Regular
+C014,Customer 14,Chennai,Tamil Nadu,15-03-2024,Premium
+C015,Customer 15,Delhi,Delhi,20-03-2024,Regular
+C016,Customer 16,Kolkata,West Bengal,25-03-2024,Premium
+C017,Customer 17,Ahmedabad,Gujarat,01-04-2024,Regular
+C018,Customer 18,Jaipur,Rajasthan,05-04-2024,Regular
+C019,Customer 19,Hyderabad,Telangana,10-04-2024,Premium
+C020,Customer 20,Pune,Maharashtra,15-04-2024,Regular
+C021,Customer 21,Mumbai,Maharashtra,20-04-2024,Premium
+C022,Customer 22,Bengaluru,Karnataka,25-04-2024,Regular
+C023,Customer 23,Chennai,Tamil Nadu,01-05-2024,Regular
+C024,Customer 24,Delhi,Delhi,05-05-2024,Premium
+C025,Customer 25,Kolkata,West Bengal,10-05-2024,Regular
+C026,Customer 26,Ahmedabad,Gujarat,15-05-2024,Premium
+C027,Customer 27,Jaipur,Rajasthan,20-05-2024,Regular
+C028,Customer 28,Hyderabad,Telangana,25-05-2024,Regular
+C029,Customer 29,Pune,Maharashtra,01-06-2024,Premium
+C030,Customer 30,Mumbai,Maharashtra,05-06-2024,Regular
+C031,Customer 31,Bengaluru,Karnataka,10-06-2024,Regular
+C032,Customer 32,Chennai,Tamil Nadu,15-06-2024,Premium
+C033,Customer 33,Delhi,Delhi,20-06-2024,Regular
+C034,Customer 34,Kolkata,West Bengal,25-06-2024,Premium
+C035,Customer 35,Ahmedabad,Gujarat,01-07-2024,Regular
+C036,Customer 36,Jaipur,Rajasthan,05-07-2024,Regular
+C037,Customer 37,Hyderabad,Telangana,10-07-2024,Premium
+C038,Customer 38,Pune,Maharashtra,15-07-2024,Regular
+C039,Customer 39,Mumbai,Maharashtra,20-07-2024,Premium
+C040,Customer 40,Bengaluru,Karnataka,25-07-2024,Regular
+C041,Customer 41,Chennai,Tamil Nadu,01-08-2024,Regular
+C042,Customer 42,Delhi,Delhi,05-08-2024,Premium
+C043,Customer 43,Kolkata,West Bengal,10-08-2024,Regular
+C044,Customer 44,Ahmedabad,Gujarat,15-08-2024,Premium
+C045,Customer 45,Jaipur,Rajasthan,20-08-2024,Regular
+C046,Customer 46,Hyderabad,Telangana,25-08-2024,Regular
+C047,Customer 47,Pune,Maharashtra,01-09-2024,Premium
+C048,Customer 48,Mumbai,Maharashtra,05-09-2024,Regular
+C049,Customer 49,Bengaluru,Karnataka,10-09-2024,Regular
+C050,Customer 50,Chennai,Tamil Nadu,15-09-2024,Premium
+C051,Customer 51,Delhi,Delhi,20-09-2024,Regular
+C052,Customer 52,Kolkata,West Bengal,25-09-2024,Premium
+C053,Customer 53,Ahmedabad,Gujarat,01-10-2024,Regular
+C054,Customer 54,Jaipur,Rajasthan,05-10-2024,Regular
+C055,Customer 55,Hyderabad,Telangana,10-10-2024,Premium
+C056,Customer 56,Pune,Maharashtra,15-10-2024,Regular
+C057,Customer 57,Mumbai,Maharashtra,20-10-2024,Premium
+C058,Customer 58,Bengaluru,Karnataka,25-10-2024,Regular
+C059,Customer 59,Chennai,Tamil Nadu,01-11-2024,Regular
+C060,Customer 60,Delhi,Delhi,05-11-2024,Premium
+C061,Customer 61,Kolkata,West Bengal,10-11-2024,Regular
+C062,Customer 62,Ahmedabad,Gujarat,15-11-2024,Premium
+C063,Customer 63,Jaipur,Rajasthan,20-11-2024,Regular
+C064,Customer 64,Hyderabad,Telangana,25-11-2024,Regular
+C065,Customer 65,Pune,Maharashtra,01-12-2024,Premium
+C066,Customer 66,Mumbai,Maharashtra,05-12-2024,Regular
+C067,Customer 67,Bengaluru,Karnataka,10-12-2024,Regular
+C068,Customer 68,Chennai,Tamil Nadu,15-12-2024,Premium
+C069,Customer 69,Delhi,Delhi,20-12-2024,Regular
+C070,Customer 70,Kolkata,West Bengal,25-12-2024,Premium
+C071,Customer 71,Ahmedabad,Gujarat,01-01-2025,Regular
+C072,Customer 72,Jaipur,Rajasthan,05-01-2025,Regular
+C073,Customer 73,Hyderabad,Telangana,10-01-2025,Premium
+C074,Customer 74,Pune,Maharashtra,15-01-2025,Regular
+C075,Customer 75,Mumbai,Maharashtra,20-01-2025,Premium
+C076,Customer 76,Bengaluru,Karnataka,25-01-2025,Regular
+C077,Customer 77,Chennai,Tamil Nadu,01-02-2025,Regular
+C078,Customer 78,Delhi,Delhi,05-02-2025,Premium
+C079,Customer 79,Kolkata,West Bengal,10-02-2025,Regular
+C080,Customer 80,Ahmedabad,Gujarat,15-02-2025,Premium
+C081,Customer 81,Jaipur,Rajasthan,20-02-2025,Regular
+C082,Customer 82,Hyderabad,Telangana,25-02-2025,Regular
+C083,Customer 83,Pune,Maharashtra,01-03-2025,Premium
+C084,Customer 84,Mumbai,Maharashtra,05-03-2025,Regular
+C085,Customer 85,Bengaluru,Karnataka,10-03-2025,Regular
+C086,Customer 86,Chennai,Tamil Nadu,15-03-2025,Premium
+C087,Customer 87,Delhi,Delhi,20-03-2025,Regular
+C088,Customer 88,Kolkata,West Bengal,25-03-2025,Premium
+C089,Customer 89,Ahmedabad,Gujarat,01-04-2025,Regular
+C090,Customer 90,Jaipur,Rajasthan,05-04-2025,Regular
+C091,Customer 91,Hyderabad,Telangana,10-04-2025,Premium
+C092,Customer 92,Pune,Maharashtra,15-04-2025,Regular
+C093,Customer 93,Mumbai,Maharashtra,20-04-2025,Premium
+C094,Customer 94,Bengaluru,Karnataka,25-04-2025,Regular
+C095,Customer 95,Chennai,Tamil Nadu,01-05-2025,Regular
+C096,Customer 96,Delhi,Delhi,05-05-2025,Premium
+C097,Customer 97,Kolkata,West Bengal,10-05-2025,Regular
+C098,Customer 98,Ahmedabad,Gujarat,15-05-2025,Premium
+C099,Customer 99,Jaipur,Rajasthan,20-05-2025,Regular
+C100,Customer 100,Hyderabad,Telangana,25-05-2025,Regular
+C101,Customer 101,Pune,Maharashtra,01-06-2025,Premium
+C102,Customer 102,Mumbai,Maharashtra,05-06-2025,Regular
+C103,Customer 103,Bengaluru,Karnataka,10-06-2025,Regular
+C104,Customer 104,Chennai,Tamil Nadu,15-06-2025,Premium
+C105,Customer 105,Delhi,Delhi,20-06-2025,Regular
+C106,Customer 106,Kolkata,West Bengal,25-06-2025,Premium
+C107,Customer 107,Ahmedabad,Gujarat,01-07-2025,Regular
+C108,Customer 108,Jaipur,Rajasthan,05-07-2025,Regular
+C109,Customer 109,Hyderabad,Telangana,10-07-2025,Premium
+C110,Customer 110,Pune,Maharashtra,15-07-2025,Regular
+C111,Customer 111,Mumbai,Maharashtra,20-07-2025,Premium
+C112,Customer 112,Bengaluru,Karnataka,25-07-2025,Regular
+C113,Customer 113,Chennai,Tamil Nadu,01-08-2025,Regular
+C114,Customer 114,Delhi,Delhi,05-08-2025,Premium
+C115,Customer 115,Kolkata,West Bengal,10-08-2025,Regular
+C116,Customer 116,Ahmedabad,Gujarat,15-08-2025,Premium
+C117,Customer 117,Jaipur,Rajasthan,20-08-2025,Regular
+C118,Customer 118,Hyderabad,Telangana,25-08-2025,Regular
+C119,Customer 119,Pune,Maharashtra,01-09-2025,Premium
+C120,Customer 120,Mumbai,Maharashtra,05-09-2025,Regular
+C121,Customer 121,Bengaluru,Karnataka,10-09-2025,Regular
+C122,Customer 122,Chennai,Tamil Nadu,15-09-2025,Premium
+C123,Customer 123,Delhi,Delhi,20-09-2025,Regular
+C124,Customer 124,Kolkata,West Bengal,25-09-2025,Premium
+C125,Customer 125,Ahmedabad,Gujarat,01-10-2025,Regular
+C126,Customer 126,Jaipur,Rajasthan,05-10-2025,Regular
+C127,Customer 127,Hyderabad,Telangana,10-10-2025,Premium
+C128,Customer 128,Pune,Maharashtra,15-10-2025,Regular
+C129,Customer 129,Mumbai,Maharashtra,20-10-2025,Premium
+C130,Customer 130,Bengaluru,Karnataka,25-10-2025,Regular
+C131,Customer 131,Chennai,Tamil Nadu,01-11-2025,Regular
+C132,Customer 132,Delhi,Delhi,05-11-2025,Premium
+C133,Customer 133,Kolkata,West Bengal,10-11-2025,Regular
+C134,Customer 134,Ahmedabad,Gujarat,15-11-2025,Premium
+C135,Customer 135,Jaipur,Rajasthan,20-11-2025,Regular
+C136,Customer 136,Hyderabad,Telangana,25-11-2025,Regular
+C137,Customer 137,Pune,Maharashtra,01-12-2025,Premium
+C138,Customer 138,Mumbai,Maharashtra,05-12-2025,Regular
+C139,Customer 139,Bengaluru,Karnataka,10-12-2025,Regular
+C140,Customer 140,Chennai,Tamil Nadu,15-12-2025,Premium
+C141,Customer 141,Delhi,Delhi,20-12-2025,Regular
+C142,Customer 142,Kolkata,West Bengal,25-12-2025,Premium
+C143,Customer 143,Ahmedabad,Gujarat,01-01-2026,Regular
+C144,Customer 144,Jaipur,Rajasthan,05-01-2026,Regular
+C145,Customer 145,Hyderabad,Telangana,10-01-2026,Premium
+C146,Customer 146,Pune,Maharashtra,15-01-2026,Regular
+C147,Customer 147,Mumbai,Maharashtra,20-01-2026,Premium
+C148,Customer 148,Bengaluru,Karnataka,25-01-2026,Regular
+C149,Customer 149,Chennai,Tamil Nadu,01-02-2026,Regular
+C150,Customer 150,Delhi,Delhi,05-02-2026,Premium
+C151,Customer 151,Kolkata,West Bengal,10-02-2026,Regular
+C152,Customer 152,Ahmedabad,Gujarat,15-02-2026,Premium
+C153,Customer 153,Jaipur,Rajasthan,20-02-2026,Regular
+C154,Customer 154,Hyderabad,Telangana,25-02-2026,Regular
+C155,Customer 155,Pune,Maharashtra,01-03-2026,Premium
+C156,Customer 156,Mumbai,Maharashtra,05-03-2026,Regular
+C157,Customer 157,Bengaluru,Karnataka,10-03-2026,Regular
+C158,Customer 158,Chennai,Tamil Nadu,15-03-2026,Premium
+C159,Customer 159,Delhi,Delhi,20-03-2026,Regular
+C160,Customer 160,Kolkata,West Bengal,25-03-2026,Premium
+C161,Customer 161,Ahmedabad,Gujarat,01-04-2026,Regular
+C162,Customer 162,Jaipur,Rajasthan,05-04-2026,Regular
+C163,Customer 163,Hyderabad,Telangana,10-04-2026,Premium
+C164,Customer 164,Pune,Maharashtra,15-04-2026,Regular
+C165,Customer 165,Mumbai,Maharashtra,20-04-2026,Premium
+C166,Customer 166,Bengaluru,Karnataka,25-04-2026,Regular
+C167,Customer 167,Chennai,Tamil Nadu,01-05-2026,Regular
+C168,Customer 168,Delhi,Delhi,05-05-2026,Premium
+C169,Customer 169,Kolkata,West Bengal,10-05-2026,Regular
+C170,Customer 170,Ahmedabad,Gujarat,15-05-2026,Premium
+C171,Customer 171,Jaipur,Rajasthan,20-05-2026,Regular
+C172,Customer 172,Hyderabad,Telangana,25-05-2026,Regular
+C173,Customer 173,Pune,Maharashtra,01-06-2026,Premium
+C174,Customer 174,Mumbai,Maharashtra,05-06-2026,Regular
+C175,Customer 175,Bengaluru,Karnataka,10-06-2026,Regular
+C176,Customer 176,Chennai,Tamil Nadu,15-06-2026,Premium
+C177,Customer 177,Delhi,Delhi,20-06-2026,Regular
+C178,Customer 178,Kolkata,West Bengal,25-06-2026,Premium
+C179,Customer 179,Ahmedabad,Gujarat,01-07-2026,Regular
+C180,Customer 180,Jaipur,Rajasthan,05-07-2026,Regular
+C181,Customer 181,Hyderabad,Telangana,10-07-2026,Premium
+C182,Customer 182,Pune,Maharashtra,15-07-2026,Regular
+C183,Customer 183,Mumbai,Maharashtra,20-07-2026,Premium
+C184,Customer 184,Bengaluru,Karnataka,25-07-2026,Regular
+C185,Customer 185,Chennai,Tamil Nadu,01-08-2026,Regular
+C186,Customer 186,Delhi,Delhi,05-08-2026,Premium
+C187,Customer 187,Kolkata,West Bengal,10-08-2026,Regular
+C188,Customer 188,Ahmedabad,Gujarat,15-08-2026,Premium
+C189,Customer 189,Jaipur,Rajasthan,20-08-2026,Regular
+C190,Customer 190,Hyderabad,Telangana,25-08-2026,Regular
+C191,Customer 191,Pune,Maharashtra,01-09-2026,Premium
+C192,Customer 192,Mumbai,Maharashtra,03-09-2026,Regular
+C193,Customer 193,Bengaluru,Karnataka,05-09-2026,Regular
+C194,Customer 194,Chennai,Tamil Nadu,07-09-2026,Premium
+C195,Customer 195,Delhi,Delhi,09-09-2026,Regular
+C196,Customer 196,Kolkata,West Bengal,10-09-2026,Premium
+C197,Customer 197,Ahmedabad,Gujarat,11-09-2026,Regular
+C198,Customer 198,Jaipur,Rajasthan,12-09-2026,Regular
+C199,Customer 199,Hyderabad,Telangana,13-09-2026,Premium
+C200,Customer 200,Pune,Maharashtra,14-09-2026,Regular

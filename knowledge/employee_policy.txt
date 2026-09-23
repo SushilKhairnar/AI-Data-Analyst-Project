@@ -1,0 +1,293 @@
+ABC RETAIL PVT. LTD.
+EMPLOYEE POLICY
+
+Document Code: EP-001
+Department: Human Resources
+Applicable Area: Employee and Department Management
+Effective Period: January 2025 onwards
+
+1. PURPOSE
+
+The Employee Policy defines the basic organizational standards for maintaining employee information and managing the company's workforce.
+
+ABC Retail Pvt. Ltd. maintains employee records containing:
+
+* Employee ID
+* Employee Name
+* Department ID
+* Job Role
+* City
+* Hire Date
+* Salary
+
+Employees are assigned to departments according to their responsibilities.
+
+2. EMPLOYEE IDENTIFICATION
+
+Every employee must have a unique employee ID.
+
+The employee ID is the official identifier used by Human Resources for employee records.
+
+Employee names should be recorded accurately.
+
+Employee records must be maintained by authorized HR personnel.
+
+3. DEPARTMENT STRUCTURE
+
+ABC Retail Pvt. Ltd. currently operates through the following departments:
+
+Sales
+Data & Analytics
+Human Resources
+Finance
+Operations
+
+Each department has a unique department ID.
+
+The company department structure includes:
+
+D01 – Sales
+D02 – Data & Analytics
+D03 – Human Resources
+D04 – Finance
+D05 – Operations
+
+Each department has an assigned manager and location.
+
+4. SALES DEPARTMENT
+
+The Sales Department is responsible for customer acquisition, sales activities, customer relationships, and order-related business operations.
+
+Employees in Sales may perform roles such as Sales Executive, Sales Representative, Sales Manager, or related positions.
+
+Sales employees interact with customers and support the company's revenue-generating activities.
+
+5. DATA & ANALYTICS DEPARTMENT
+
+The Data & Analytics Department supports business reporting, data analysis, dashboards, business intelligence, and analytical activities.
+
+Employees in this department may perform roles such as Data Analyst, Business Analyst, Data Scientist, BI Analyst, or related analytical positions.
+
+The department supports management by providing reliable business information.
+
+6. HUMAN RESOURCES DEPARTMENT
+
+The Human Resources Department manages employee-related activities.
+
+HR responsibilities may include:
+
+* Employee records
+* Recruitment
+* Onboarding
+* Employee policies
+* Compensation administration
+* Employee documentation
+* Department assignments
+* Workforce planning
+
+Employee information must be handled confidentially.
+
+7. FINANCE DEPARTMENT
+
+The Finance Department manages financial activities and supports financial reporting.
+
+Responsibilities may include:
+
+* Financial reporting
+* Budget monitoring
+* Cost management
+* Financial controls
+* Business expense management
+* Financial planning
+
+Finance employees may work with business departments to monitor financial performance.
+
+8. OPERATIONS DEPARTMENT
+
+The Operations Department supports the company's day-to-day operational activities.
+
+Responsibilities may include:
+
+* Order fulfillment
+* Operational coordination
+* Process management
+* Delivery coordination
+* Business operations
+* Service support
+
+Operations employees coordinate with Sales and other departments when required.
+
+9. EMPLOYEE JOB ROLES
+
+Each employee is assigned a job role.
+
+Job roles identify the primary responsibilities of employees.
+
+Employees should perform duties according to their assigned roles and departmental responsibilities.
+
+Job roles should be maintained accurately in employee records.
+
+10. EMPLOYEE LOCATION
+
+Employee records contain a city.
+
+The employee city represents the location associated with the employee's company record.
+
+Management may review employee distribution by city and department.
+
+Location information may support workforce planning and office management.
+
+11. HIRING
+
+The Hire Date identifies when an employee joined ABC Retail Pvt. Ltd.
+
+Human Resources maintains employee hiring records.
+
+Management may review hiring activity by:
+
+* Year
+* Department
+* Job role
+* City
+
+Hiring trends can help management understand workforce growth.
+
+12. EMPLOYEE TENURE
+
+Employee tenure represents the length of time an employee has been associated with the company.
+
+Tenure may be evaluated using the employee's hire date.
+
+Management may review workforce tenure across departments.
+
+Tenure analysis can support workforce planning and organizational understanding.
+
+13. SALARY MANAGEMENT
+
+Every employee record contains a salary value.
+
+Salary information is confidential company information.
+
+Employee compensation should be managed according to company-approved compensation policies.
+
+Salary information may be reviewed in aggregate for workforce planning and budget management.
+
+Individual employee salary information should only be accessed by authorized personnel.
+
+14. DEPARTMENT SALARY ANALYSIS
+
+Management may review salary information at the department level.
+
+Department-level analysis may include:
+
+* Total salary expenditure
+* Average salary
+* Median salary
+* Salary distribution
+* Salary by job role
+* Salary by city
+
+Department salary analysis should support workforce and budget planning.
+
+15. DEPARTMENT BUDGET
+
+Each department has an annual budget.
+
+The company currently maintains department budgets for:
+
+Sales
+Data & Analytics
+Human Resources
+Finance
+Operations
+
+Department budgets are used for organizational financial planning.
+
+Management may compare aggregate employee salary expenditure with the annual departmental budget.
+
+16. DEPARTMENT MANAGERS
+
+Each department has a designated manager.
+
+The current organizational structure includes:
+
+D01 – Sales – Vikram Shah
+D02 – Data & Analytics – Kavya Reddy
+D03 – Human Resources – Suresh Iyer
+D04 – Finance – Divya Menon
+D05 – Operations – Manish Yadav
+
+Department managers are responsible for coordinating activities within their respective departments.
+
+17. EMPLOYEE DATA ACCURACY
+
+Employee IDs must be unique.
+
+Employee names must be recorded accurately.
+
+Every employee should have a valid department ID.
+
+Job roles must reflect the employee's assigned position.
+
+City information should be maintained consistently.
+
+Hire dates must represent valid dates.
+
+Salary information must be maintained accurately.
+
+18. EMPLOYEE CONFIDENTIALITY
+
+Employee information must be handled responsibly.
+
+Salary information, personal information, and employment records should only be accessed by authorized personnel.
+
+Employees must not disclose confidential employee information without authorization.
+
+19. WORKFORCE REPORTING
+
+Human Resources may prepare periodic workforce reports.
+
+Reports may include:
+
+* Total employees
+* Employees by department
+* Employees by job role
+* Employees by city
+* Hiring activity
+* Average salary
+* Total salary expenditure
+* Department budget utilization
+
+Workforce reports should use current employee records.
+
+20. DEPARTMENT PERFORMANCE SUPPORT
+
+Every department contributes to the company's overall operations.
+
+Sales supports revenue generation.
+
+Data & Analytics supports business intelligence.
+
+Human Resources supports workforce management.
+
+Finance supports financial management.
+
+Operations supports day-to-day business processes.
+
+Employees should understand how their roles contribute to departmental objectives.
+
+21. EMPLOYEE DEVELOPMENT
+
+ABC Retail Pvt. Ltd. encourages employees to develop skills relevant to their responsibilities.
+
+Departments may identify training requirements based on job roles and business needs.
+
+Training programs may include technical skills, communication, management, analytical skills, customer service, and operational procedures.
+
+22. MANAGEMENT PRINCIPLE
+
+The employee database represents the company's organizational workforce.
+
+ABC Retail Pvt. Ltd. expects employee information to remain accurate, confidential, and properly maintained.
+
+Human Resources, department managers, and authorized management personnel are responsible for ensuring that workforce information supports effective organizational planning.

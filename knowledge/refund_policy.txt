@@ -1,0 +1,247 @@
+ABC RETAIL PVT. LTD.
+REFUND AND CANCELLATION POLICY
+
+Document Code: RCP-001
+Department: Customer Service and Finance
+Applicable Area: Order Cancellation and Refund Management
+Effective Period: January 2025 onwards
+
+1. PURPOSE
+
+This policy establishes the company's procedures for handling customer order cancellations and refunds.
+
+ABC Retail Pvt. Ltd. records order status to identify the current stage of an order.
+
+The approved order statuses are:
+
+* Delivered
+* Shipped
+* Pending
+* Cancelled
+* Refunded
+
+Cancellation and refund activities must be recorded accurately.
+
+2. ORDER CANCELLATION
+
+Customers may request cancellation of an order according to the applicable stage of order processing.
+
+Cancellation requests should be reviewed by the responsible Customer Service or Sales team.
+
+When an order is approved for cancellation, the order status should be updated to Cancelled.
+
+Cancelled orders should remain identifiable in company records for business review and operational analysis.
+
+3. PENDING ORDERS
+
+A Pending order has not yet completed the normal fulfillment process.
+
+Pending orders should be monitored by Sales and Operations teams.
+
+Customer Service may contact the customer when additional information or action is required.
+
+Pending orders should not automatically be treated as cancelled or refunded.
+
+4. SHIPPED ORDERS
+
+A Shipped order has been dispatched for delivery.
+
+Once an order has been shipped, cancellation may require additional review because the order has entered the delivery process.
+
+The Customer Service team should follow applicable operational procedures when a cancellation request is received for a shipped order.
+
+5. DELIVERED ORDERS
+
+A Delivered order represents an order that has reached the customer.
+
+Delivered orders are considered completed purchases for normal sales operations.
+
+If a customer requests a refund after delivery, the request should be evaluated according to the company's refund procedure.
+
+6. REFUND ELIGIBILITY
+
+Refund requests should be reviewed before approval.
+
+The company may consider:
+
+* Order status
+* Product involved
+* Customer request
+* Applicable return conditions
+* Order processing stage
+* Customer service information
+* Business approval requirements
+
+Not every cancellation or customer complaint automatically results in a refund.
+
+7. REFUND PROCESS
+
+The standard refund process consists of:
+
+1. Customer submits a refund request.
+2. Customer Service reviews the request.
+3. Order details are verified.
+4. Eligibility is assessed.
+5. Approval is obtained when required.
+6. The order is recorded as Refunded when the refund is approved and processed.
+7. Finance completes applicable financial processing.
+
+The company should maintain accurate status information throughout the process.
+
+8. REFUNDED STATUS
+
+The Refunded status identifies orders that have entered the company's refund process.
+
+Refunded orders should be monitored separately from normal completed orders.
+
+Management should review refund activity regularly to understand customer service and product-related trends.
+
+9. CANCELLATION VS REFUND
+
+Cancellation and refund are different business events.
+
+Cancellation occurs when an order is stopped before normal completion.
+
+Refund occurs when money associated with a purchase is returned according to the company's approved refund process.
+
+An order should not be classified as Refunded simply because a customer requested cancellation.
+
+The actual approved business event must determine the order status.
+
+10. CUSTOMER SERVICE RESPONSIBILITIES
+
+Customer Service is responsible for receiving and reviewing customer requests.
+
+Customer Service may need to verify:
+
+* Customer identity
+* Order ID
+* Order date
+* Product purchased
+* Order status
+* Reason for the request
+* Applicable company conditions
+
+Customer Service should provide customers with clear information regarding the status of their request.
+
+11. SALES RESPONSIBILITIES
+
+The Sales Department should support customer communication when cancellation or refund requests relate to sales activity.
+
+Sales employees should not independently approve refunds unless they have the required authority.
+
+Sales teams should coordinate with Customer Service and Finance when necessary.
+
+12. FINANCE RESPONSIBILITIES
+
+The Finance Department is responsible for the financial processing associated with approved refunds.
+
+Finance should maintain appropriate records of refund transactions according to company financial procedures.
+
+Refund information should be reconciled with approved customer service records.
+
+13. REFUND MONITORING
+
+Management should monitor refund activity periodically.
+
+Useful business measures include:
+
+* Number of refunded orders
+* Refund rate
+* Refunds by month
+* Refunds by product
+* Refunds by category
+* Refunds by customer segment
+* Refunds by location
+
+Refund activity should be compared with total order activity to understand its relative level.
+
+14. CANCELLATION MONITORING
+
+Cancelled orders should also be monitored.
+
+Management may review cancellation activity by:
+
+* Month
+* Customer
+* Product
+* Category
+* Customer segment
+* City
+* State
+
+A high level of cancellations may require additional investigation into customer experience, product expectations, pricing, or operational processes.
+
+15. CUSTOMER SEGMENTS
+
+Refund and cancellation activity may vary across customer segments.
+
+The company may review activity among:
+
+* Premium
+* Regular
+* Occasional
+* New
+* At Risk
+
+Customer segment information should be used to understand patterns rather than automatically assuming the reason for a cancellation or refund.
+
+16. PRODUCT ANALYSIS
+
+The company may review refunds and cancellations by product.
+
+Product-level analysis can identify whether particular products experience unusually high levels of customer dissatisfaction or cancellation.
+
+Management should investigate relevant business factors before taking action.
+
+17. CATEGORY ANALYSIS
+
+Category-level refund analysis provides a broader view than individual product analysis.
+
+Management may compare categories according to order volume and refund or cancellation activity.
+
+Categories with high transaction volume may naturally have more refund events, so activity should be considered in relation to total orders.
+
+18. REFUND DATA ACCURACY
+
+Order IDs must be valid.
+
+Customer IDs associated with orders must be valid.
+
+Order statuses must use approved values.
+
+Refunded orders must be correctly identified.
+
+Cancelled orders must not be incorrectly marked as Refunded.
+
+Employees should correct inaccurate status information through approved company procedures.
+
+19. CUSTOMER COMMUNICATION
+
+Customers must receive clear and professional communication regarding cancellation and refund requests.
+
+Customer Service should explain whether the request is:
+
+* Under review
+* Approved
+* Rejected
+* Cancelled
+* Refunded
+
+Employees should not promise a refund before the appropriate approval has been completed.
+
+20. RECORD RETENTION
+
+Cancellation and refund records should be retained according to company record-management procedures.
+
+Historical information may be required for customer service reviews, financial reconciliation, operational analysis, and management reporting.
+
+21. MANAGEMENT PRINCIPLE
+
+ABC Retail Pvt. Ltd. treats cancellation and refund management as an important part of customer service and operational control.
+
+Every request should be reviewed according to the applicable business process.
+
+Order status must accurately represent the actual state of the customer transaction.
+
+Clear communication, proper approval, accurate records, and coordination between Customer Service, Sales, Operations, and Finance are essential for effective refund and cancellation management.

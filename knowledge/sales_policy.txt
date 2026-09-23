@@ -1,0 +1,265 @@
+ABC RETAIL PVT. LTD.
+SALES POLICY
+
+Document Code: SP-001
+Department: Sales
+Applicable Area: Sales Operations and Order Management
+Effective Period: January 2025 onwards
+
+1. PURPOSE
+
+The Sales Policy of ABC Retail Pvt. Ltd. establishes the standard procedures for managing customer orders, monitoring sales activities, handling order statuses, and maintaining consistent sales reporting across the organization.
+
+The company operates through a structured customer and product sales process. Customers are registered in the company's customer master and are identified using a unique customer ID. Products available for sale are maintained in the product catalog using unique product IDs. Orders connect customers with the products they purchase.
+
+All sales activities must follow the procedures described in this policy.
+
+2. CUSTOMER AND ORDER IDENTIFICATION
+
+Every customer registered with ABC Retail Pvt. Ltd. receives a unique customer ID. Customer records contain the customer's name, city, state, signup date, and customer segment.
+
+A customer must have a valid customer record before an order can be created.
+
+Every sales order receives a unique order ID. The order record identifies the customer who placed the order, the date on which the order was created, and the current order status.
+
+Sales employees must ensure that customer and order information is entered accurately.
+
+3. ORDER PROCESSING
+
+A standard customer order consists of an order record and one or more product items associated with that order.
+
+The order record identifies the customer and the order date. Individual purchased products are recorded through order items. Each order item identifies the product and the quantity purchased.
+
+The product catalog must be used when selecting products for an order. Product IDs must correspond to valid products maintained by the company.
+
+The quantity recorded for an order item must represent the number of units purchased.
+
+Sales personnel must verify customer information, product information, and quantity before completing order entry.
+
+4. ORDER STATUS
+
+ABC Retail Pvt. Ltd. uses the following order statuses:
+
+Delivered
+Shipped
+Pending
+Cancelled
+Refunded
+
+Delivered indicates that the order has successfully reached the customer.
+
+Shipped indicates that the order has been dispatched and is in the delivery process.
+
+Pending indicates that the order is still awaiting further processing.
+
+Cancelled indicates that the order has been cancelled and will not proceed through normal fulfillment.
+
+Refunded indicates that the order has been processed as a refund according to applicable company procedures.
+
+Employees must update order status accurately and avoid assigning a status that does not represent the actual stage of the order.
+
+5. SALES COMPLETION
+
+For company sales reporting, a delivered order represents a completed customer purchase.
+
+Shipped orders represent orders that have left the company's fulfillment process but have not yet been confirmed as delivered.
+
+Pending orders should be monitored by the Sales and Operations teams because they require additional processing.
+
+Cancelled orders should be reviewed to understand why customers did not complete their purchases.
+
+Refunded orders should be monitored separately because the original purchase has subsequently entered the refund process.
+
+6. SALES BY PRODUCT
+
+The Sales Department reviews product-level sales performance regularly.
+
+Product analysis includes:
+
+* Product name
+* Product category
+* Number of units sold
+* Number of orders containing the product
+* Sales value
+* Customer demand
+* Product contribution to category sales
+
+Product information is maintained in the company's product catalog.
+
+Products have a product ID, product name, category, price, and cost.
+
+Sales teams should monitor products with strong customer demand as well as products showing declining activity.
+
+7. SALES BY CATEGORY
+
+ABC Retail organizes products into categories. Category-level sales reporting is used to understand customer demand across different product groups.
+
+Managers should review:
+
+* Total sales by category
+* Units sold by category
+* Number of orders by category
+* Average product price
+* Product cost
+* Profit contribution
+* Customer demand
+
+Category performance should be reviewed regularly so that management can identify areas of strong demand and areas requiring additional attention.
+
+8. SALES BY CUSTOMER SEGMENT
+
+Customers are classified into business segments including:
+
+* Premium
+* Regular
+* Occasional
+* New
+* At Risk
+
+Sales teams should monitor purchasing activity across these segments.
+
+Premium customers represent an important customer group and should receive appropriate attention from customer service and sales teams.
+
+New customers should be monitored during their initial relationship with the company.
+
+At Risk customers should be reviewed for declining purchasing activity.
+
+Segment-level sales information should be used to understand differences in customer purchasing behavior.
+
+9. GEOGRAPHICAL SALES
+
+Customer location information includes city and state.
+
+Sales management may review sales performance by city and state to understand geographic demand.
+
+Regional sales reports should identify areas where customer activity is strong and areas where sales activity requires improvement.
+
+The customer location recorded in the customer master should be used as the official customer location for company reporting.
+
+10. SALES BY TIME PERIOD
+
+Sales performance should be monitored across daily, monthly, quarterly, and yearly periods.
+
+Order dates are used to determine when customer orders were placed.
+
+Monthly sales reviews should compare sales activity across months and identify changes in customer demand.
+
+Management may review:
+
+* Monthly order volume
+* Monthly completed sales
+* Monthly product demand
+* Monthly category performance
+* Monthly customer-segment performance
+* Monthly cancellation activity
+* Monthly refund activity
+
+Year-over-year comparisons may also be performed when sufficient historical information is available.
+
+11. SALES PERFORMANCE
+
+The Sales Department is responsible for monitoring sales activity and identifying changes in business performance.
+
+Important sales indicators include:
+
+* Total completed sales
+* Number of completed orders
+* Units sold
+* Average order value
+* Sales by category
+* Sales by customer segment
+* Sales by geographic area
+* Cancellation activity
+* Refund activity
+
+Sales managers should review these indicators regularly.
+
+12. ORDER CANCELLATION
+
+Cancelled orders must be recorded using the Cancelled status.
+
+Sales employees should review cancellation activity to identify recurring problems.
+
+Potential areas for investigation include:
+
+* Product availability
+* Customer requirements
+* Order processing delays
+* Pricing concerns
+* Customer service issues
+* Delivery expectations
+
+The company should maintain accurate cancellation records to support management reviews.
+
+13. REFUNDED ORDERS
+
+Refunded orders must be identified separately from completed delivered orders.
+
+A refunded order should not be treated as a normal successfully completed sale when management reviews final business performance.
+
+Refund processing must follow the company's refund policy and applicable approval procedures.
+
+Sales and Finance teams should coordinate when refund-related financial information is reviewed.
+
+14. SALES RESPONSIBILITIES
+
+The Sales Department is responsible for:
+
+* Customer acquisition
+* Customer relationship management
+* Order creation
+* Sales monitoring
+* Sales reporting
+* Customer segment review
+* Product sales monitoring
+* Regional sales analysis
+* Cancellation monitoring
+* Coordination with customer service
+
+Sales employees must maintain accurate customer and order information.
+
+15. PRODUCT PRICING
+
+Products maintained by ABC Retail Pvt. Ltd. have a standard selling price and cost.
+
+The price represents the standard product selling price maintained in the product catalog.
+
+The cost represents the company's recorded product cost.
+
+Any approved price change must be reflected in the official product catalog.
+
+Sales employees must use current approved product pricing when processing customer orders.
+
+16. SALES DATA QUALITY
+
+Sales records must contain valid identifiers.
+
+Customer IDs used in orders must correspond to registered customers.
+
+Product IDs used in order items must correspond to products in the product catalog.
+
+Order IDs must be unique.
+
+Order dates must represent valid business dates.
+
+Order statuses must use the company's approved status values.
+
+Incorrect or incomplete records should be reported to the appropriate business team for correction.
+
+17. SALES REVIEW PROCESS
+
+The Sales Manager should conduct periodic reviews of sales performance.
+
+Monthly reviews should examine order activity, customer activity, product performance, category performance, and order status distribution.
+
+Significant changes in sales activity should be investigated before management decisions are made.
+
+Sales reports should use consistent company definitions so that performance can be compared across reporting periods.
+
+18. MANAGEMENT PRINCIPLE
+
+ABC Retail Pvt. Ltd. considers accurate sales information essential for effective business operations.
+
+Every order should have a valid customer, every order item should refer to a valid product, and every order status should accurately represent the customer's order journey.
+
+The Sales Department should focus not only on increasing sales but also on maintaining accurate customer relationships, reliable order processing, and consistent sales operations.

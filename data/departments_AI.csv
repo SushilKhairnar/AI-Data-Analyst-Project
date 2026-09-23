@@ -1,0 +1,6 @@
+department_id,department_name,manager_name,location,annual_budget
+D01,Sales,Vikram Shah,Hyderabad,12000000
+D02,Data & Analytics,Kavya Reddy,Hyderabad,10000000
+D03,Human Resources,Suresh Iyer,Chennai,8000000
+D04,Finance,Divya Menon,Bengaluru,9000000
+D05,Operations,Manish Yadav,Delhi,11000000

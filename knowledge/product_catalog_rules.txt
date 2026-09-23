@@ -1,0 +1,280 @@
+ABC RETAIL PVT. LTD.
+PRODUCT CATALOG RULES
+
+Document Code: PCR-001
+Department: Product Management and Sales
+Applicable Area: Product Master Data and Product Sales Management
+Effective Period: January 2025 onwards
+
+1. PURPOSE
+
+The Product Catalog Rules establish the standards for maintaining products sold by ABC Retail Pvt. Ltd.
+
+The product catalog is the company's central record of products available for sales operations.
+
+Every product is identified using a unique product ID.
+
+The product catalog contains:
+
+* Product ID
+* Product Name
+* Category
+* Price
+* Cost
+
+Product information must remain accurate because it is used by Sales, Finance, Operations, Customer Service, and Management.
+
+2. PRODUCT IDENTIFICATION
+
+Each product must have a unique product ID.
+
+The product ID is the official identifier used throughout the company's sales records.
+
+When a product is included in an order, the order item must reference the corresponding product ID.
+
+Employees should not create alternative identifiers for existing products.
+
+Product IDs must remain consistent across company records.
+
+3. PRODUCT NAME
+
+Every product must have a clear and recognizable product name.
+
+Product names should allow Sales and Customer Service employees to identify products easily.
+
+Product names should be consistent across reports and business communications.
+
+Duplicate product names should be investigated because they can create confusion in sales and product reporting.
+
+4. PRODUCT CATEGORY
+
+Every product belongs to a product category.
+
+Categories allow the company to organize its product portfolio and analyze customer demand.
+
+Category-level reviews may include:
+
+* Number of products
+* Number of orders
+* Units sold
+* Sales contribution
+* Product cost
+* Profit contribution
+* Customer demand
+
+Products should be assigned to the appropriate approved category.
+
+5. PRODUCT PRICE
+
+The product price represents the standard selling price maintained by ABC Retail Pvt. Ltd.
+
+Sales employees must use the approved price associated with the product.
+
+Product prices should be reviewed periodically by the responsible business team.
+
+Any approved price change should be reflected in the official product catalog.
+
+Employees should not independently modify product prices without authorization.
+
+6. PRODUCT COST
+
+The product cost represents the company's recorded cost associated with the product.
+
+Cost information is important for evaluating product profitability.
+
+Management may compare product price and cost to understand the financial contribution of different products.
+
+Cost information should be maintained carefully because incorrect cost values can affect profitability analysis.
+
+7. PRODUCT PROFITABILITY
+
+Product profitability may be evaluated by comparing the product selling price with its recorded cost.
+
+At the individual product level, the difference between price and cost represents the basic unit-level gross profit before considering other business expenses.
+
+Management may review:
+
+* Product price
+* Product cost
+* Unit profit
+* Units sold
+* Total product sales
+* Total product cost
+* Gross profit contribution
+
+Products with strong sales volume and strong margins may have a different business impact from products with high sales volume but lower margins.
+
+8. PRODUCT SALES PERFORMANCE
+
+The Sales and Product Management teams should regularly review product performance.
+
+Important indicators include:
+
+* Number of units sold
+* Number of orders
+* Product sales value
+* Product category
+* Customer segments purchasing the product
+* Geographic demand
+* Profit contribution
+
+Product performance should be reviewed over appropriate periods to identify changes in customer demand.
+
+9. PRODUCT CATEGORY PERFORMANCE
+
+Category performance provides management with a broader view of the company's product portfolio.
+
+A category containing many products may generate a different level of sales than a smaller category.
+
+Management may compare categories based on:
+
+* Sales value
+* Units sold
+* Number of orders
+* Average product price
+* Average product cost
+* Profit contribution
+* Customer demand
+
+Category performance should be reviewed regularly.
+
+10. PRODUCT DEMAND
+
+Customer order information provides evidence of product demand.
+
+When customers purchase a product, the corresponding order item records the product ID and quantity.
+
+Higher quantities indicate greater unit demand within the available order records.
+
+Product demand should be evaluated across time periods rather than using a single order.
+
+The company may review monthly, quarterly, and yearly product demand.
+
+11. PRODUCT QUANTITY
+
+Order items record the quantity of each product purchased.
+
+Quantity represents the number of units included in the customer's order.
+
+Product quantity must be recorded accurately.
+
+Incorrect quantity values can affect sales reports, product demand analysis, and profitability calculations.
+
+Sales employees should verify quantity before completing an order.
+
+12. PRODUCT AND CUSTOMER SEGMENTS
+
+Different customer segments may demonstrate different product preferences.
+
+ABC Retail Pvt. Ltd. may review product purchases across:
+
+* Premium customers
+* Regular customers
+* Occasional customers
+* New customers
+* At Risk customers
+
+The company may identify products that are frequently purchased by particular customer segments.
+
+Such information can support product planning and customer relationship activities.
+
+13. PRODUCT AND GEOGRAPHIC DEMAND
+
+Customer city and state information can be used to understand where different products are purchased.
+
+Management may review product demand across geographic areas.
+
+For example, a product may have strong demand in one city and lower demand in another.
+
+Geographic product analysis can help the company understand differences in customer preferences.
+
+14. PRODUCT PORTFOLIO MANAGEMENT
+
+ABC Retail Pvt. Ltd. should maintain a balanced product portfolio.
+
+Product managers should periodically review products according to their sales activity, customer demand, category, price, cost, and profitability.
+
+Products with declining sales should be reviewed to understand the underlying business reasons.
+
+Products with increasing demand should be monitored to ensure that the company can continue supporting customer requirements.
+
+15. PRODUCT DATA QUALITY
+
+The following rules apply to product master data:
+
+Product IDs must be unique.
+
+Product names must be meaningful.
+
+Every product should have an appropriate category.
+
+Prices must be valid business values.
+
+Costs must be valid business values.
+
+Product records should not contain unnecessary duplicates.
+
+Changes to product information should be authorized.
+
+Any inconsistency between product records and sales records should be investigated.
+
+16. PRODUCT CHANGES
+
+Product information may change during the normal operation of the business.
+
+Approved changes may include:
+
+* Product name changes
+* Category changes
+* Price changes
+* Cost updates
+
+Changes should be documented and reviewed by the responsible department.
+
+Historical business reports should be interpreted carefully when product information has changed.
+
+17. PRODUCT REPORTING
+
+Product reports should provide management with a clear understanding of product performance.
+
+Regular product reports may include:
+
+* Top-selling products
+* Products with highest unit demand
+* Products with highest sales contribution
+* Category performance
+* Product profitability
+* Customer segment preferences
+* Geographic product demand
+
+Reports should use consistent product identifiers.
+
+18. SALES AND PRODUCT TEAMS
+
+The Product Management team is responsible for maintaining product information.
+
+The Sales team uses product information during customer interactions and order processing.
+
+The Finance team may use product price and cost information for profitability analysis.
+
+Operations teams may use product information for order fulfillment and business planning.
+
+All departments should use the official product catalog.
+
+19. PRODUCT PRICING REVIEW
+
+Product prices should be reviewed when business conditions require changes.
+
+Price reviews may consider product cost, customer demand, market conditions, product category, and business objectives.
+
+Only authorized employees should approve pricing changes.
+
+Sales personnel should not promise unauthorized prices to customers.
+
+20. MANAGEMENT PRINCIPLE
+
+The product catalog is a core business asset of ABC Retail Pvt. Ltd.
+
+Accurate product IDs, names, categories, prices, and costs are essential for reliable sales operations.
+
+Product management should focus on maintaining accurate product information, understanding customer demand, monitoring profitability, and ensuring that the company's product portfolio continues to support customer and business requirements.
