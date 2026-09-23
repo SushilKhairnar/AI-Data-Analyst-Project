@@ -22,7 +22,7 @@ Unlike a traditional document-based RAG chatbot, this system can intelligently d
 
 
 
-🔗 \*\*Streamlit App:\*\* Add your deployed Streamlit URL here
+🔗 \*\*Streamlit App:\*\* https://ai-data-analyst-project-dprpwhk7erio6gftfsa2wv.streamlit.app/
 
 
 
